@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+}
+
+#root{
+	width: 100vw;
+	height: 100vh;
+}
+
+.App, .Login{
+	width: 100%;
+	height: 100%;
+}
+
+.Login{
+	background-image: url("https://th.bing.com/th/id/R.6e7171bdef5c53bdeccc4b0462eb8e5a?rik=BX2pOuOuI3NA2g&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fAww6cC4.jpg&ehk=TqCDxe9Zt%2bp3rYPmZ6EDEIAuBk%2bC2RfpXERANj4tUVM%3d&risl=&pid=ImgRaw&r=0");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	border-width: 20%;
+}
+
+.form-login{
+	width: 50%;
+	height: 80%;
+	border-width: 10px;
+	border-color: primary;
+	border-style: solid;
+	background-image: url("https://image.winudf.com/v2/image/Y29tLmNvZmZlZXdhbGxwYXBlci5oZC5jb2ZmZWVwaWN0dXJlcy5waG90b3MuYmFja2dyb3VuZC5jdXRlLmNvb2wuYXJ0LmNvZmZlZWltYWdlcy5oZC5mcmVlX3NjcmVlbl85XzE1MzM5NDQxMDBfMDM5/screen-9.jpg?fakeurl=1&type=.jpg");
+	background-size: cover;
+}
